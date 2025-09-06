@@ -1,10 +1,15 @@
 <br clear="both">
 
-<h1 align="center">Hola ¿Cómo estas?</h1>
+<h1 align="center">Soy Juan, bienvenido!</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanortizz&show_icons=true&theme=gruvbox" 
+       alt="GitHub stats" width="500" style="margin-right: 40px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanortizz&layout=compact&theme=gruvbox" 
+       alt="Top Langs" width="380"/>
+</p>
 
 ###
-
-<p align="left">Mi nombre es Juan Ortiz, soy de Córdoba, Argentina.</p>
 
 ###
 
@@ -51,7 +56,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />}
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+
 </div>
 
 ###
