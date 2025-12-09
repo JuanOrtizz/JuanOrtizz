@@ -7,6 +7,7 @@
        alt="GitHub stats" width="500" style="margin-right: 40px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanortizz&layout=compact&theme=gruvbox" 
        alt="Top Langs" width="380"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanOrtizz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
 
 ###
@@ -59,7 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
 </div>
 
 ###
